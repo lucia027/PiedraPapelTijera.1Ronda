@@ -4,10 +4,10 @@ WriteLine("Vamos a jugar al piedra papel o tijera");
 int maquina = ObtenerJugadaAleatoria();
 int jugador =  PreguntarJugada();
 DeterminarGanador(maquina: maquina, jugador: jugador);
-
 //Fin del main
 
 
+// Intento fallido de hacerlo con estructuras.
 //    struct Jugadas {
 //        public int Piedra = 1;
 //        public int Tijera = 2;
@@ -20,15 +20,17 @@ DeterminarGanador(maquina: maquina, jugador: jugador);
 //        public int Maquina = -1;
 //    }
 
+//Constantes de las posibles jugadas.
 const int Piedra = 1;
 const int Tijera = 2;
 const int Papel = 3;
 
+//Constantes de los posibles resultados de la partida.
 const int Jugador = 1;
 const int Empate =  0;
 const int Maquina = -1;
 
-
+//Funcion que obtiene una jugada aleatoria por parte de la maquina
 int ObtenerJugadaAleatoria() {
     var res = 0;
     bool isCorrecto = true;
@@ -54,6 +56,7 @@ int ObtenerJugadaAleatoria() {
     return res;
 }
 
+//Funcion que pregunta ola jugada del usuario
 int PreguntarJugada() {
     int res = 0;
     bool isCorrecto = true;
@@ -87,6 +90,7 @@ int PreguntarJugada() {
     return res;
 }
 
+//Procedimiento que determina quien es el gandor o si hay un posible empate
 void DeterminarGanador(int maquina, int jugador) {
     string maquinaTexto;
     switch (maquina) {
