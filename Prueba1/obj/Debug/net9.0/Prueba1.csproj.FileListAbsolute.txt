@@ -12,3 +12,18 @@ C:\Users\Lu\Desktop\Git-Repository\Prueba1\Prueba1\obj\Debug\net9.0\refint\Prueb
 C:\Users\Lu\Desktop\Git-Repository\Prueba1\Prueba1\obj\Debug\net9.0\Prueba1.pdb
 C:\Users\Lu\Desktop\Git-Repository\Prueba1\Prueba1\obj\Debug\net9.0\Prueba1.genruntimeconfig.cache
 C:\Users\Lu\Desktop\Git-Repository\Prueba1\Prueba1\obj\Debug\net9.0\ref\Prueba1.dll
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\bin\Debug\net9.0\Prueba1.exe
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\bin\Debug\net9.0\Prueba1.deps.json
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\bin\Debug\net9.0\Prueba1.runtimeconfig.json
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\bin\Debug\net9.0\Prueba1.dll
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\bin\Debug\net9.0\Prueba1.pdb
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\Prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\Prueba1.AssemblyInfoInputs.cache
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\Prueba1.AssemblyInfo.cs
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\Prueba1.sourcelink.json
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\Prueba1.dll
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\refint\Prueba1.dll
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\Prueba1.pdb
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\Prueba1.genruntimeconfig.cache
+C:\Users\Lu\Desktop\Git-Repository\PiedraPapelTijera(1 Ronda)\Prueba1\obj\Debug\net9.0\ref\Prueba1.dll

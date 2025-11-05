@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lu\\Desktop\\Git-Repository\\Prueba1\\Prueba1\\Prueba1.csproj": {}
+    "C:\\Users\\Lu\\Desktop\\Git-Repository\\PiedraPapelTijera(1 Ronda)\\Prueba1\\Prueba1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lu\\Desktop\\Git-Repository\\Prueba1\\Prueba1\\Prueba1.csproj": {
+    "C:\\Users\\Lu\\Desktop\\Git-Repository\\PiedraPapelTijera(1 Ronda)\\Prueba1\\Prueba1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lu\\Desktop\\Git-Repository\\Prueba1\\Prueba1\\Prueba1.csproj",
+        "projectUniqueName": "C:\\Users\\Lu\\Desktop\\Git-Repository\\PiedraPapelTijera(1 Ronda)\\Prueba1\\Prueba1.csproj",
         "projectName": "Prueba1",
-        "projectPath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\Prueba1\\Prueba1\\Prueba1.csproj",
+        "projectPath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\PiedraPapelTijera(1 Ronda)\\Prueba1\\Prueba1.csproj",
         "packagesPath": "C:\\Users\\Lu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\Prueba1\\Prueba1\\obj\\",
+        "outputPath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\PiedraPapelTijera(1 Ronda)\\Prueba1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lu\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -68,12 +68,15 @@ int PreguntarJugada() {
         switch (input) {
             case "piedra": 
                 res = Piedra; 
+                isCorrecto = true;
                 break;
             case "papel":
                 res = Papel;
+                isCorrecto = true;
                 break;
             case "tijera":
                 res = Tijera;
+                isCorrecto = true;
                 break;
             default:
                 isCorrecto = false;
@@ -85,12 +88,28 @@ int PreguntarJugada() {
 }
 
 void DeterminarGanador(int maquina, int jugador) {
+    string maquinaTexto;
+    switch (maquina) {
+        case 1:
+            maquinaTexto = "Piedra";
+            break;
+        case 2:
+            maquinaTexto = "Tijera";
+            break;
+        case 3:
+            maquinaTexto = "Papel";
+            break;
+        default:
+            maquinaTexto = "No valido";
+            break;
+    }
+    
     if (jugador == maquina) {
         WriteLine("Has quedado empate con la maquina");
     } else if ((jugador == Piedra && maquina == Tijera) || (jugador == Tijera && maquina == Papel) || (jugador == Papel && maquina == Piedra)) {
-        WriteLine("Has ganado");
+        WriteLine($"Has ganado, la jugada de la maquina era: {maquinaTexto}");
     }
     else {
-        WriteLine("Has perdido");
+        WriteLine($"Has perdido, la jugada de la maquina era:  {maquinaTexto}");
     }
 }
