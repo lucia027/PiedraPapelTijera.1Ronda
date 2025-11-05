@@ -114,6 +114,6 @@ void DeterminarGanador(int maquina, int jugador) {
         WriteLine($"Has ganado, la jugada de la maquina era: {maquinaTexto}");
     }
     else {
-        WriteLine($"Has perdido, la jugada de la maquina era:  {maquinaTexto}");
+        WriteLine($"Has perdido, la jugada de la maquina era: {maquinaTexto}");
     }
 }
